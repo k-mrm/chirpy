@@ -1,2 +1,2 @@
 # chirpy
-この子はosになりたがってると思う
+very very mini language
