@@ -1,2 +1,2 @@
 # chirpy
-very very mini language
+very very mini scripting language
